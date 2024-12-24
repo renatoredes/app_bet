@@ -77,3 +77,5 @@ A API utilizada é a API-Football da RapidAPI, que fornece dados detalhados sobr
     * Time da casa e time visitante.
     * Resultado do jogo (gols marcados).
     * Status da partida (finalizada, em andamento, etc.)
+## Resultado esperado:
+![image](https://github.com/user-attachments/assets/5e072743-6eef-49e4-ba30-bd53c7bc45e7)
